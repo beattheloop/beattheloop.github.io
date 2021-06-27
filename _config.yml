@@ -20,7 +20,10 @@ kramdown:
 sass:
   sass_dir: _sass
   style: :compressed
-ganalytics: ""
+ganalytics: G-MTEJKC7J0F
+# name: "Beat The Loop"
+# description: "A resource for making the career jump from Finance to Tech."
+# url: https://beattheloop.com
 
 # Authors
 authors:
@@ -44,7 +47,7 @@ authors:
 # Social
 social:
   instagram: https://www.instagram.com/beattheloop
-  facebook: https://www.facebook.com/
+  linked_in: https://www.linkedin.com/
   twitter: https://twitter.com/beattheloop
 
 # Plugins
